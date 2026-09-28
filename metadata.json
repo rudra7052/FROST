@@ -1,0 +1,6 @@
+{
+  "name": "FROST — Field Resource & Operations Support Tracker",
+  "description": "Integrated Polar Expedition Logistics & Asset Management System for MoES and NCPOR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
